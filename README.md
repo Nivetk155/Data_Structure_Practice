@@ -1,2 +1,2 @@
 # Data_Structure_Practice
-Data_Structure_Promblems
+Data_Structure_Problems
